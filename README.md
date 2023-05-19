@@ -1,5 +1,7 @@
 # Jamie's Tech Blog
 
+![Image of the blog](https://i.imgur.com/8T8sLjJ.png)
+
 This is a blog made with [Jekyll](https://jekyllrb.com/docs/) and the [Chripy](https://github.com/cotes2020/jekyll-theme-chirpy/). This was my first time using a static site generator. I found it pretty straightforward and easy to use! I really enjoyed it and would reccomend Jekyll to anyone looking to start a blog. The docs are so clean and straightforward. 
 
 ## What I Learned
