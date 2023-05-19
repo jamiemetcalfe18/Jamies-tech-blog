@@ -1,0 +1,14 @@
+---
+title: First Blog and Post!
+date: 2023-05-18T10:30:00+19:30
+categories: [Blog, Post]
+tags: [blog, jekyll, tech]  # TAG names should always be lowercase
+author: Jamie Metcalfe
+comments: false
+---
+
+
+Hello world!
+This is my first blog and blog post! I made this blog with the static site generator Jekyll and I used the Chirpy theme.
+It was pretty easy and straight forward to set up using the command line and editing the .yml files. I found the whole process easy and enjoyable. I
+ really like that Chirpy has a light and dark mode! I am looking forward to making more cool projects and posting about them here :)
