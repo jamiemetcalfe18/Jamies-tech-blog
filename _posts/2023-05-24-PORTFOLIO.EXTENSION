@@ -1,0 +1,29 @@
+---
+title: What makes a good portfolio?
+date: 2023-05-24T10:30:00+19:30
+categories: [Porfolio]
+tags: [portfolio, website, getting into tech]  # TAG names should always be lowercase
+author: <author_id>
+comments: false
+---
+
+
+<p>I'm working on my developer portfolio, and I was wondering what makes a good portfolio.</p>
+
+<p>After conducting some research, I am here to share my findings!
+
+Your portfolio serves as your business card, helping you land your first few jobs and get your foot in the door. It showcases your projects and coding abilities. Typically, people divide it into several sections: a hero section, an information and skills section, a projects section, and a contact section. These sections are crucial for making your portfolio digestible and easy to navigate.</p>
+
+You want the design and UI/UX to be clean. The typography and colors should complement each other rather than seem random. The overall presentation should effectively represent you and your capabilities. It's okay to be a perfectionist in this area.
+
+<p>The hero section is similar to an "about me" section. However, your hero section should answer the following questions: "Whose website is this?", "What do they do?", "Why should I work with you?", and "What makes you special or unique?". You should also include a clear image of yourself, allowing visitors to see the person they may hire. The hero section showcases the hero—you! After reading your hero section, visitors should have a good sense of who you are.</p>
+
+<p>Skills are what make us valuable! The next important section is the skills section. Here, you should list the languages you know or your tech stack, along with the technologies you are familiar with. Avoid listing percentages, as it can have the opposite effect.</p>
+
+<p>Now, onto the real reason we're here: the projects! Feature projects that best showcase your skills. Provide a link to a live demo and include a screenshot of each project. I would recommend styling the screenshot by giving it rounded edges and a drop shadow. Additionally, write a brief description of the technologies you used to create the project and mention what you learned in the process. When choosing projects, opt for ones on which you've spent a substantial amount of time. Remember, quality is more important than quantity. Avoid using small apps, code-along projects, and tutorials. Instead, focus on apps you built from scratch, unique ideas, and CRUD (Create, Read, Update, Delete) apps. Including 2-3 projects is sufficient; choose your best ones!</p>
+
+<p>You also have the option to add another section. It could be a case studies section or, for freelancers, a review section. In the review section, you can feature positive reviews, testimonials, or describe how your projects have helped others. This choice depends on your preference.</p>
+
+<p>Lastly, ensure that all the links on your contact page, including your social and professional links, work properly and lead to the intended destinations. This is crucial. The contact page should provide all the necessary information for people to reach out to you, listing multiple platforms for ease of access.</p>
+
+<p>Thank you for reading, and I hope this article helps you plan out your portfolio!</p>

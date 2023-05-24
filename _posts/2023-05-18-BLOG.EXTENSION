@@ -3,7 +3,7 @@ title: First Blog and Post!
 date: 2023-05-18T10:30:00+19:30
 categories: [Blog, Post]
 tags: [blog, jekyll, tech]  # TAG names should always be lowercase
-author: Jamie Metcalfe
+author: <author_id>
 comments: false
 ---
 
