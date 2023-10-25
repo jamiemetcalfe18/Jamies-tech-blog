@@ -20,10 +20,10 @@ timezone: America/Chicago
 
 title: Jamie's Tech Blog # the main title
 
-tagline: This blog will cover my journies in learning the ins and outs of tech and becoming a great developer. # it will display as the sub-title
+tagline: This blog will cover my journeys in learning the ins and outs of tech and becoming a great developer. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Jamie's Tech Blog is a blog with the purpose of chronicling the tech journey of Jamie Metcalfe as an aspiring web devloper. 
+  Jamie's Tech Blog is a blog with the purpose of chronicling the tech journey of Jamie Metcalfe as an aspiring web devloper.
 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
@@ -42,11 +42,11 @@ social:
   email: jamie18metcalfe@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/j_metcalfe18 # change to your twitter homepage
+    # https://twitter.com/j_metcalfe18 # change to your twitter homepage
     - https://github.com/jamiemetcalfe18 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://linkedin.com/in/jmetcalfe18/
+    # https://linkedin.com/in/jmetcalfe18/
 
 google_site_verification: # fill in to your verification string
 

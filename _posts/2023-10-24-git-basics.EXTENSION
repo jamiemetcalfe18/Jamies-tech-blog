@@ -1,0 +1,57 @@
+---
+title: Git Basics
+date: 2023-10-24T10:30:00+19:30
+categories: [Git, GitHub]
+tags: [git, github]  # TAG names should always be lowercase
+author: <author_id>
+comments: false
+---
+
+
+<h1>A really epic save button</h1>
+
+<p>Git is a version control system used by developers all around the world!</p>
+
+<p>To better under stand git, we need to understand version control. Version control is a bit like using a Google Doc and being able to look at the history changes of a Google Doc, but with each version specifically named instead of automatically saved.</p>
+
+<h1>But... What about GitHub?</h1>
+
+<p>GitHub is a development platform that allowed you to host and review code, collaborate with other developers, manage projects, contribute to open source, and build software. GitHub allows you to save you code in the cloud. It is the number one tool that has contributed to the open source movement and made it easy to share code and contribute to other projects.</p>
+<p>Not only are Git and GitHub key tools for developers, but they make it easy to deploy projects as well. You can deploy static websites to the web for free!
+You can easily use GitHub in the browser to create a repository to upload your files, Or you can use GitHub Desktop, which is a GUI for windows, and lets you handle git and interact with GitHub visually.</p>
+
+<h1>Git in the Terminal</h1>
+
+<p>Most developers use Git in the Terminal. It's just easy and the commands are simple! Let's go over the ones for Linux!</p>
+
+<code>
+git init
+</code>
+<p>This command initializes an existing directory as a Git repository.</p>
+
+<code>git clone [url]</code>
+<p>This command allows you to retrieve an entire repository from a hosted location via URL. Just replace [url] with the URL link to the repo!</p>
+
+<code>git add [file]</code>
+<p>This allows you to add a file as it looks to your next commit. Replace [file] with the filename. You can also add an entire directory to add everything in that directory.</p>
+
+<code>git reset [file]</code>
+<p>This allows you to unstage a file while retaining changes in the working directory.</p>
+
+<code>git commit -m "[descriptive message]"</code>
+<p>This command allows you to commit your staged content as a new commit snapshot! It is important to have a descriptive message of your changes so that you know exactly what was changed.</p>
+
+<code>Git status</code>
+<p>Lets you check the status.</p>
+
+<code>Git log</code>
+<p>Lets you check the log.</p>
+
+<p>There's a ton more commands, but these are the basic ones. If you need a good reference the <a href="https://git-scm.com/docs" target="blank">Git Docs</a> are incredibly useful!</p>
+
+<p>I hope this post was useful to you! Git is a really powerful tool to leverage for any developer!</p>
+
+
+
+
+
